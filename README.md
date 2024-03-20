@@ -6,7 +6,8 @@
 
 - 📫 How to reach me **dumpaakashr@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1n510SaQTXuQJzzJigZjjjhXUMV1x2MXq/view?usp=sharing">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1n510SaQTXuQJzzJigZjjjhXUMV1x2MXq/view?usp=sharing">Resume</a>
+- 📊 Tableau <a href="https://public.tableau.com/app/profile/dumpa.akash.reddy/vizzes">Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
