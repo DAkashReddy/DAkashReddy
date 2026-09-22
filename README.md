@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Research Assistant | University of Texas at Arlington**
 
-- 📫 How to reach me **dumpaakashr@gmail.com**
+- 📫 How to reach me **dakashreedy5@gmail.com**
 
 - 📄 Know about my experiences <a href="">Resume</a>
 - 📊 Tableau <a href="https://public.tableau.com/app/profile/dumpa.akash.reddy/vizzes">Link</a>
