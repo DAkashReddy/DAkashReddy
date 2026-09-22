@@ -17,4 +17,46 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.google.es/intl/es/sheets/about/" rel="nofollow"> <img src="https://camo.githubusercontent.com/2d7e2b3d8fd6b814f6e4f37f3caeaafb5beab5f459257d895eaaafdeb9ef7bb7/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323936352f323936353332372e706e67" alt="google sheets" width="40" height="40" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2965/2965327.png" style="max-width: 100%;"> </a><a href="https://powerbi.microsoft.com/es-es/" rel="nofollow"> <img src="https://camo.githubusercontent.com/c079f1336d56d40eb43217e61f0d023c46c0a699e17ff22de45d24f0d062d75d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63392f506f7765725f62695f6c6f676f5f626c61636b2e7376672f3132303070782d506f7765725f62695f6c6f676f5f626c61636b2e7376672e706e67" alt="PowerBi" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png" style="max-width: 100%;"> </a><a href="https://www.tableau.com/es-es" rel="nofollow"> <img src="https://camo.githubusercontent.com/6ef8066a66a59a1fe4a7671419f8bef0bced994bca38e5a4998e36e4c4752f33/68747470733a2f2f63646e2e66696c657069636b65722e696f2f6170692f66696c652f6a5a44494c6c7566534f53444f6b754a545a374a" alt="tableau" width="40" height="40" data-canonical-src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" style="max-width: 100%;"> </a><a href="https://www.microsoft.com/es-es/microsoft-365/excel" rel="nofollow"> <img src="https://camo.githubusercontent.com/920d930b7bfdbc4feb25f77423b8fa8124d922ef9cb28138c7a10eceb2054d09/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33342f4d6963726f736f66745f4f66666963655f457863656c5f2532383230313925453225383025393370726573656e742532392e7376672f32353870782d4d6963726f736f66745f4f66666963655f457863656c5f2532383230313925453225383025393370726573656e742532392e7376672e706e67" alt="excel" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/258px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" style="max-width: 100%;"> </a></p>
+<p align="left">
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+       alt="AWS" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+       alt="MySQL" width="40" height="40"/>
+</a>
+
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+       alt="Oracle" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Python" width="40" height="40"/>
+</a>
+
+<a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/2965/2965327.png"
+       alt="Google Sheets" width="40" height="40"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+       alt="Power BI" width="40" height="40"/>
+</a>
+
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"
+       alt="Tableau" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"
+       alt="Excel" width="40" height="40"/>
+</a>
+
+</p>
