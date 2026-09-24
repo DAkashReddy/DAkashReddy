@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm D Akash Reddy</h1>
 <h3 align="center">A Passionate Tech Consultant from Dallas, TX</h3>
 
-- 🔭 I’m currently working as **Consultant at Modali Consulting | University of Texas at Arlington**
+- 🔭 I’m currently working as **Consultant | Modali Consulting**
 
 - 📫 How to reach me **dakashreedy5@gmail.com**
 - 📊 Tableau <a href="https://public.tableau.com/app/profile/dumpa.akash.reddy/vizzes">Link</a>
