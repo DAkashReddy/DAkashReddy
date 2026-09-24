@@ -52,7 +52,7 @@
 </a>
 
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"
+  <img src="https://simple.wikipedia.org/wiki/Microsoft_Excel#/media/File:Microsoft_Office_Excel_(2025%E2%80%93present).svg"
        alt="Excel" width="40" height="40"/>
 </a>
 
