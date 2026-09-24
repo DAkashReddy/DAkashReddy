@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dumpa Akash Reddy</h1>
-<h3 align="center">A Passionate Aspiring Data Analyst from Dallas, TX</h3>
+<h1 align="center">Hi 👋, I'm D Akash Reddy</h1>
+<h3 align="center">A Passionate Tech Consultant from Dallas, TX</h3>
 
 
-- 🔭 I’m currently working as **Research Assistant | University of Texas at Arlington**
+- 🔭 I’m currently working as ** Consultant at Modali Consulting | University of Texas at Arlington**
 
 - 📫 How to reach me **dakashreedy5@gmail.com**
-
-- 📄 Know about my experiences <a href="">Resume</a>
+- 
 - 📊 Tableau <a href="https://public.tableau.com/app/profile/dumpa.akash.reddy/vizzes">Link</a>
 
 <h3 align="left">Connect with me:</h3>
